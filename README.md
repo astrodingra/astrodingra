@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jashanpreet Singh!
+# 👋 Hi, I'm Jashanpreet Singh Dingra!
 
 I am a passionate **BS-MS student in Physics** at **GFTI Amritsar**, aspiring **astrophysicist** with a keen interest in data analysis and astrophysical phenomena.
 
