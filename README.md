@@ -28,6 +28,7 @@ I founded the **Dingratro Club (DAC)** to educate, inspire, and mentor the next 
 Follow my journey and explore open-source tools and blogs about astronomy on my social media account:
 
 - **Instagram:** [@astrodingra](https://instagram.com/astrodingra)
+- **Mail:** [astrodingra@icloud.com](mailto:astrodingra@icloud.com)
 
 ## 🌐 Personal Website
 Visit my website for more information: [astrodingra.github.io](https://astrodingra.github.io)
