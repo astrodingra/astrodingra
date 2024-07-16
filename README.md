@@ -33,7 +33,6 @@ Follow my journey and explore open-source tools and blogs about astronomy on my 
 ## 🌐 Personal Website
 Visit my website for more information: [astrodingra.github.io](https://astrodingra.github.io)
 
-<br/>
 
 ---
 
